@@ -1,0 +1,15 @@
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\bin\Debug\net10.0\MyProject.exe
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\bin\Debug\net10.0\MyProject.deps.json
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\bin\Debug\net10.0\MyProject.runtimeconfig.json
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\bin\Debug\net10.0\MyProject.dll
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\bin\Debug\net10.0\MyProject.pdb
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\obj\Debug\net10.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\obj\Debug\net10.0\MyProject.AssemblyInfoInputs.cache
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\obj\Debug\net10.0\MyProject.AssemblyInfo.cs
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\obj\Debug\net10.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\obj\Debug\net10.0\MyProject.sourcelink.json
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\obj\Debug\net10.0\MyProject.dll
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\obj\Debug\net10.0\refint\MyProject.dll
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\obj\Debug\net10.0\MyProject.pdb
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\obj\Debug\net10.0\MyProject.genruntimeconfig.cache
+C:\Dev\ZbW\ZbW.ProgrammingFoundationShort\MeinProjekt\MyProject\obj\Debug\net10.0\ref\MyProject.dll
